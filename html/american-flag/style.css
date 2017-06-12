@@ -1,0 +1,35 @@
+#flag{
+	height: 325px;
+	width: 610px;
+	border: 1px solid black;
+}
+
+.blue{
+	height: 175px;
+	width: 350px;
+	background-color: blue;
+	background-image: url("https://process.filestackapi.com/AhTgLagciQByzXpFGRI0Az/resize=width:35/http://icons.iconarchive.com/icons/danrabbit/elementary/128/Star-grey-icon.png");
+	float: left;
+}
+
+.red{
+	height: 25px;
+	background-color: red;
+}
+
+.white{
+	height: 25px;
+	background-color: white;
+}
+
+.short-stripe{
+	width: 260px;
+}
+
+#right-stripes{
+	float: right;
+}
+
+#stripe-8{
+	clear: both;
+}

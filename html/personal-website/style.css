@@ -1,0 +1,53 @@
+/*h1
+.class
+#ID*/
+
+
+html{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+body {
+
+}
+
+h1 {
+	font-size: 50px;
+}
+
+p {
+	font-size: 14px;
+}
+
+button {
+	color: white;
+	font-size: 14px;
+	background-color: red;
+	border: none;
+	border-radius: 100px;
+	width: 130px;
+	height: 40px;
+}
+
+#hero {
+/*	background-image: url("https://process.filestackapi.com/resize=width:1420/monochrome/jJZ5APSqTAmHb0giB5NI");
+*/	background-image: url("https://process.filestackapi.com/resize=width:1420/monochrome/TI7AQm0NSbywgG7BajJa");
+	color: red;
+	text-align: center;
+	height: 500px;
+	width: auto;
+	padding-top: 100px;
+}
+
+#hero p{
+	font-size: 24px;
+}
+
+#hero img{
+	width:30px;
+}
+
+
+
+
