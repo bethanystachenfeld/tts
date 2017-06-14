@@ -1,0 +1,42 @@
+footer {
+    background-color: #D64541 ;
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+footer ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 2%;
+    float: right;   
+}
+
+footer p {
+    float: left;
+    padding: 2%;
+}
+
+footer a,
+footer p {
+    color:#fff;
+    vertical-align: middle;
+}
+
+.caption{
+    width: 300px;
+    text-align: center;
+}
+
+
+
+
+/********************
+MEDIA QUERIES
+********************/
+/*@media screen and (max-width: 776px) {
+    .features img {
+        max-width: 90%;
+        margin: auto;
+    }
+}*/
